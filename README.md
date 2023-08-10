@@ -15,13 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3>💬 Ask me about</h3>
+
+Originally from Ukraine, I relocated to Canada due to the prevailing war in Ukraine. 
+Both programming and crafting require precision and dedication, and I enjoy both equally. 
+Outside of the tech world, I fervently pursue sports, with MMA and Brazilian Jiu-Jitsu being my disciplines of choice.
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; ReactJS | NodeJS | NextJS | JavaScript | TypeScript  | .NET Core  | C#
 - 🛢 &nbsp; MySQL | MongoDB | Firebase
 - 🔧 &nbsp; Git | Docker
 
+
 <h3> 🤝🏻 Connect with Me </h3>
+- 😄 Pronouns: He/him.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vladislav-didyk/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vladislav%20Didyk-blue?style=flat-square&logo=linkedin"></a>
