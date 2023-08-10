@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! I'm Vlad 👋
 
 <!--
 **vladik-Didyk/vladik-Didyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; ReactJS | NodeJS | NextJS | JavaScript | TypeScript  | .NET Core  | C#
+- 🛢 &nbsp; MySQL | MongoDB | Firebase
+- 🔧 &nbsp; Git | Docker
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/vladislav-didyk/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vladislav%20Didyk-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/VladikDidyk"><img alt="Instagram" src="https://img.shields.io/badge/Twitter-Vladislav%20Didyk-blue?style=flat-square&logo=Twitter"></a>
+<a href="mailto:vladik.didyk@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vladik.didyk@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
