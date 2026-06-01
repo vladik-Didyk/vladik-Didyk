@@ -138,10 +138,6 @@ It fuses ~50 years of public geoscience data — geophysics, geochemistry, litho
 <div align="center">
 
 [![Followers](https://img.shields.io/github/followers/vladik-Didyk?style=for-the-badge&logo=github&label=FOLLOWERS&color=e94560&labelColor=0d1117)](https://github.com/vladik-Didyk?tab=followers)
-&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=vladik-Didyk&style=for-the-badge&color=e94560&label=PROFILE+VIEWS)](https://github.com/vladik-Didyk)
-&nbsp;
-[![DepoDart.ai stars](https://img.shields.io/github/stars/depodart/DepoDart.ai?style=for-the-badge&logo=github&label=DEPODART%20%E2%98%85&color=e94560&labelColor=0d1117)](https://github.com/depodart/DepoDart.ai)
 
 </div>
 
