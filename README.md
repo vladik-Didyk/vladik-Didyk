@@ -75,6 +75,30 @@ It fuses ~50 years of public geoscience data — geophysics, geochemistry, litho
 
 </div>
 
+## 🎯 Skill Map — Experience × Strength
+
+> Plotted by **years of hands-on experience** (x) against **current strength** (y) — so you can see where I'm deepest and where I'm actively leveling up.
+
+```mermaid
+quadrantChart
+    title Experience  →   vs   ↑  Strength
+    x-axis Newer --> More Experience
+    y-axis Developing --> Strong
+    quadrant-1 Core Strengths
+    quadrant-2 Sharp & Rising
+    quadrant-3 Exploring
+    quadrant-4 Foundational
+    "React / TypeScript": [0.93, 0.95]
+    "Next.js / Remix": [0.82, 0.90]
+    "React Native": [0.78, 0.86]
+    "Node.js / APIs": [0.80, 0.82]
+    "Python": [0.58, 0.80]
+    "ML · Deep Learning": [0.45, 0.74]
+    "Embedded / IoT (Jetson, CV)": [0.42, 0.70]
+    "DevOps / Cloud": [0.62, 0.68]
+    "C# / .NET": [0.55, 0.56]
+```
+
 ## 💼 Experience Highlights
 
 🔹 **Senior Frontend Developer** — Building a web + mobile platform for **15,000+ users** using NX Monorepo, Remix SSR, and React Native CLI. Built an **LPR (license-plate-recognition) system** on NVIDIA Jetson Nano with Python + Docker + OpenCV — camera feed → plate recognition → automatic gate control via relay hardware.
