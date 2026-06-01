@@ -75,30 +75,15 @@ It fuses ~50 years of public geoscience data — geophysics, geochemistry, litho
 
 </div>
 
-## 🎯 Skill Map — Experience × Strength
+## 🎯 Skill Map — Time × Experience
 
-> Plotted by **years of hands-on experience** (x) against **current strength** (y) — so you can see where I'm deepest and where I'm actively leveling up.
+> Each technology plotted by **time** (x — years of hands-on) against **experience** (y — proficiency). The icons *are* the data points.
 
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'quadrant1Fill':'#0d2a1a','quadrant2Fill':'#0d1b33','quadrant3Fill':'#1a1a2e','quadrant4Fill':'#261433','quadrant1TextFill':'#39d353','quadrant2TextFill':'#58a6ff','quadrant3TextFill':'#8b949e','quadrant4TextFill':'#bc8cff','quadrantPointTextFill':'#e6edf3','quadrantXAxisTextFill':'#e94560','quadrantYAxisTextFill':'#e94560','quadrantTitleFill':'#e94560','quadrantInternalBorderStrokeFill':'#30363d','quadrantExternalBorderStrokeFill':'#484f58'}}}%%
-quadrantChart
-    title Experience  →   vs   ↑  Strength
-    x-axis Newer --> More Experience
-    y-axis Developing --> Strong
-    quadrant-1 Core Strengths
-    quadrant-2 Sharp & Rising
-    quadrant-3 Exploring
-    quadrant-4 Foundational
-    "⚛️ React / TypeScript": [0.93, 0.95] radius: 8, color: #61DAFB, stroke-color: #61DAFB, stroke-width: 2px
-    "▲ Next.js / Remix": [0.82, 0.90] radius: 7, color: #FFFFFF, stroke-color: #FFFFFF, stroke-width: 2px
-    "📱 React Native": [0.78, 0.84] radius: 7, color: #4FC3F7, stroke-color: #4FC3F7, stroke-width: 2px
-    "🟢 Node.js / APIs": [0.84, 0.80] radius: 7, color: #3C873A, stroke-color: #3C873A, stroke-width: 2px
-    "🐍 Python": [0.56, 0.80] radius: 7, color: #4B8BBE, stroke-color: #4B8BBE, stroke-width: 2px
-    "🔥 ML · Deep Learning": [0.43, 0.74] radius: 9, color: #EE4C2C, stroke-color: #EE4C2C, stroke-width: 2px
-    "🔌 Embedded / IoT": [0.40, 0.68] radius: 8, color: #76B900, stroke-color: #76B900, stroke-width: 2px
-    "🐳 DevOps / Cloud": [0.64, 0.66] radius: 7, color: #2496ED, stroke-color: #2496ED, stroke-width: 2px
-    "💜 C# / .NET": [0.55, 0.54] radius: 7, color: #9B72CF, stroke-color: #9B72CF, stroke-width: 2px
-```
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/skill-chart.svg" width="100%" alt="Skill map — time vs experience" />
+
+</div>
 
 ## 💼 Experience Highlights
 
