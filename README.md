@@ -134,6 +134,8 @@ It fuses ~50 years of public geoscience data — geophysics, geochemistry, litho
 
 <img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/output/github-snake-dark.svg" width="100%" alt="Snake eating my contribution graph" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vladik-Didyk&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&area_color=e94560&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
+
 </div>
 
 ---
