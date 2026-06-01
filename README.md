@@ -112,17 +112,6 @@ It fuses ~50 years of public geoscience data — geophysics, geochemistry, litho
 
 ---
 
-## 🚀 Side Projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **DepoDart** | Python, PyTorch, CNN/GNN, Next.js, Three.js | ML mineral-exploration platform — predicts subsurface gold/copper targets from fused public geoscience data. |
-| **Sprout** | React Native, Expo, Supabase | Money-affirmations app with mascot branding, paywall, widgets & push notifications. Targeting North America market. |
-| **TestimonialPro** | Remix SSR, Prisma, Stripe | Micro-SaaS for collecting & embedding customer testimonials. Freemium model for solopreneurs. |
-| **PixelMD** | React, Canvas API, ML | Dead pixel detection & repair toolkit with ML-inspired anomaly detection and automated health reports. |
-
----
-
 ## 💼 Experience Highlights
 
 🔹 **Senior Frontend Developer** — Building a web + mobile platform for **15,000+ users** using NX Monorepo, Remix SSR, and React Native CLI. Built an **LPR (license-plate-recognition) system** on NVIDIA Jetson Nano with Python + Docker + OpenCV — camera feed → plate recognition → automatic gate control via relay hardware.
@@ -138,6 +127,8 @@ It fuses ~50 years of public geoscience data — geophysics, geochemistry, litho
 <div align="center">
 
 [![Followers](https://img.shields.io/github/followers/vladik-Didyk?style=for-the-badge&logo=github&label=FOLLOWERS&color=e94560&labelColor=0d1117)](https://github.com/vladik-Didyk?tab=followers)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=vladik-Didyk&style=for-the-badge&color=e94560&label=PROFILE+VIEWS)](https://github.com/vladik-Didyk)
 
 </div>
 
