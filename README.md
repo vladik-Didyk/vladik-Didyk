@@ -130,6 +130,8 @@ It fuses ~50 years of public geoscience data — geophysics, geochemistry, litho
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=vladik-Didyk&style=for-the-badge&color=e94560&label=PROFILE+VIEWS)](https://github.com/vladik-Didyk)
 
+<img height="180" src="https://streak-stats.demolab.com/?user=vladik-Didyk&theme=radical&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak stats" />
+
 <img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/output/github-snake-dark.svg" width="100%" alt="Snake eating my contribution graph" />
 
 </div>
