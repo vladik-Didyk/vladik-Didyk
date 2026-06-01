@@ -41,42 +41,6 @@ It fuses ~50 years of public geoscience data — geophysics, geochemistry, litho
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,remix,redux,nodejs,fastapi,cs,dotnet,prisma&theme=dark&perline=11" alt="frontend & backend" />
-
-<img src="https://skillicons.dev/icons?i=expo,androidstudio,xcode,python,pytorch,tensorflow,opencv,docker,nginx,linux&theme=dark&perline=11" alt="mobile, ml & devops" />
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,aws,gcp,vercel,netlify,git,raspberrypi&theme=dark&perline=11" alt="data, cloud & iot" />
-
-<br/>
-
-<kbd> 🧠 ML / AI </kbd> &nbsp;
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![CNN / GNN](https://img.shields.io/badge/-CNN_·_GNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Autoencoders](https://img.shields.io/badge/-Autoencoders-8E44AD?style=flat-square)
-
-<kbd> 🔌 Embedded / IoT </kbd> &nbsp;
-![NVIDIA Jetson](https://img.shields.io/badge/-NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![Waveshare Relay](https://img.shields.io/badge/-Waveshare_Relay-C8102E?style=flat-square&logo=raspberrypi&logoColor=white)
-![LPR](https://img.shields.io/badge/-LPR_·_Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-<kbd> ⚡ AI-Native Dev </kbd> &nbsp;
-![Claude Code](https://img.shields.io/badge/-Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-<kbd> 🧰 Tooling </kbd> &nbsp;
-![NX](https://img.shields.io/badge/-NX_Monorepo-143055?style=flat-square&logo=nx&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-
-</div>
-
-## 🎯 Skill Map — Time × Experience
-
 > Each technology plotted by **time** (x — years of hands-on) against **experience** (y — proficiency). The icons *are* the data points.
 
 <div align="center">
