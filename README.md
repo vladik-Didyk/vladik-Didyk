@@ -123,55 +123,6 @@ It fuses ~50 years of public geoscience data — geophysics, geochemistry, litho
 
 ---
 
-## 📌 Featured Repositories
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/depodart/DepoDart.ai">DepoDart.ai</a></h3>
-      ML mineral-exploration platform — predicts subsurface gold/copper targets from fused public geoscience data.<br><br>
-      <img src="https://img.shields.io/github/stars/depodart/DepoDart.ai?style=flat-square&color=e94560&labelColor=0d1117&logo=github" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>⌨️ <a href="https://github.com/vladik-Didyk/oss-keyshortcut">KeyShortcut</a></h3>
-      Searchable keyboard-shortcuts directory — cheatsheets for every app you use.<br><br>
-      <img src="https://img.shields.io/github/stars/vladik-Didyk/oss-keyshortcut?style=flat-square&color=e94560&labelColor=0d1117&logo=github" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/vladik-Didyk/oss-analytics-stack">Analytics Stack</a></h3>
-      Drop-in consent-gated analytics — GA4 + Microsoft Clarity + PostHog in one command.<br><br>
-      <img src="https://img.shields.io/github/stars/vladik-Didyk/oss-analytics-stack?style=flat-square&color=e94560&labelColor=0d1117&logo=github" />
-      <img src="https://img.shields.io/badge/Privacy-009688?style=flat-square&logo=internetexplorer&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/vladik-Didyk/portfolio-ai-image-generator">AI Image Generator</a></h3>
-      Text-to-image web app with a swappable model provider.<br><br>
-      <img src="https://img.shields.io/github/stars/vladik-Didyk/portfolio-ai-image-generator?style=flat-square&color=e94560&labelColor=0d1117&logo=github" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/vladik-Didyk/portfolio-e-commerce-project">E-Commerce (MERN)</a></h3>
-      Full-stack store — React, Node/Express, MongoDB.<br><br>
-      <img src="https://img.shields.io/github/stars/vladik-Didyk/portfolio-e-commerce-project?style=flat-square&color=e94560&labelColor=0d1117&logo=github" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧰 <a href="https://github.com/vladik-Didyk/oss-google-scripts">Google Apps Scripts</a></h3>
-      Practical Workspace automation — Gmail label organizer & more.<br><br>
-      <img src="https://img.shields.io/github/stars/vladik-Didyk/oss-google-scripts?style=flat-square&color=e94560&labelColor=0d1117&logo=github" />
-      <img src="https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 💼 Experience Highlights
 
 🔹 **Senior Frontend Developer** — Building a web + mobile platform for **15,000+ users** using NX Monorepo, Remix SSR, and React Native CLI. Built an **LPR (license-plate-recognition) system** on NVIDIA Jetson Nano with Python + Docker + OpenCV — camera feed → plate recognition → automatic gate control via relay hardware.
