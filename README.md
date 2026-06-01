@@ -1,22 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Vlad%20Didyk&fontSize=50&fontColor=e94560&fontAlignY=35&desc=Senior%20Full-Stack%20Developer%20%7C%206%2B%20Years&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Vlad%20Didyk&fontSize=50&fontColor=e94560&fontAlignY=35&desc=Full-Stack%20%26%20Systems%20Engineer%20%7C%207%2B%20Years%20%7C%2012%2B%20in%20Tech&descSize=17&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/-Vladislav%20Didyk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-didyk/)
 [![Email](https://img.shields.io/badge/-vladik.didyk@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladik.didyk@gmail.com)
+[![Website](https://img.shields.io/badge/-didyk.dev-0f3460?style=for-the-badge&logo=safari&logoColor=white)](https://didyk.dev/)
 [![GitHub](https://img.shields.io/badge/-vladik--Didyk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vladik-Didyk)
 
 </div>
 
 ## `> whoami`
 
-Originally from Ukraine 🇺🇦, now based in **Toronto, Canada** 🇨🇦. Senior Full-Stack JavaScript Developer with **6+ years** of experience shipping web platforms, mobile apps, and IoT solutions — from microfrontend architectures serving **15,000+ users** to embedded hardware systems running on **NVIDIA Jetson Nano**.
+Originally from Ukraine 🇺🇦, now based in **Toronto, Canada** 🇨🇦. **Full-Stack Developer & Systems Engineer** with **7+ years** of hands-on engineering and **12+ years in tech** — I started at **IBM Israel at 19**. I ship end-to-end across an unusually wide surface: web platforms, mobile apps, smart-TV, and **embedded/IoT** — from microfrontend architectures serving **15,000+ users** to real-time computer-vision systems on **NVIDIA Jetson** and **Raspberry Pi**.
+
+My current focus is **applied machine learning** — see **DepoDart** below.
 
 Outside of work, I independently design and ship mobile apps and SaaS products from concept to App Store — including **Sprout** (a money-affirmations app), **PixelMD** (dead pixel detection toolkit), and **TestimonialPro** (a testimonial collection platform).
 
 Both programming and crafting require precision and dedication — I enjoy both equally. When I'm away from the keyboard, you'll find me on the mats training **MMA** and **Brazilian Jiu-Jitsu** 🥋
 
 🗣️ &nbsp;English · Ukrainian · Russian · Hebrew
+
+---
+
+## 🧠 Flagship — DepoDart · ML for Mineral Exploration
+
+**[DepoDart](https://github.com/depodart)** is a **mineral-exploration intelligence platform** I'm building — it predicts where gold, copper, and other targets sit beneath the surface *before a single dollar is spent drilling*.
+
+It fuses ~50 years of public geoscience data — geophysics, geochemistry, lithology — across vendor formats and jurisdictions, then runs a multi-modal ML model to produce per-coordinate **prospectivity heat maps**, calibrated against ground-truth assays.
+
+- 🗺️ **6M+ rock-geochemistry samples** harmonized across Canada, USA, Australia & Europe
+- 🧩 Parsers for **27 distinct contractor data formats** (Geosoft `.gdb`, ZTEM, VTEM, DIGHEM…) most tools can't read
+- 🤖 Multi-modal ML — **CNN + GNN + autoencoder + evolutionary search**, GPU-accelerated
+- 📐 Canonical **123-mineral** schema for direct cross-jurisdiction comparison
+- 🎯 Output: **drillable target maps** (2D & 3D), ranked by predicted grade × confidence
+
+> *For roughly the cost of three drill holes, it tells you where to drill the next three hundred.*
 
 ---
 
@@ -38,12 +57,21 @@ Both programming and crafting require precision and dedication — I enjoy both 
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
+**Machine Learning & AI**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![CNN / GNN](https://img.shields.io/badge/-CNN_%2F_GNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
 **Backend & APIs**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 **Databases & BaaS**
 
@@ -64,8 +92,12 @@ Both programming and crafting require precision and dedication — I enjoy both 
 
 **Hardware & IoT**
 
-![NVIDIA](https://img.shields.io/badge/-Jetson_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Waveshare_Relay-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/-NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![Waveshare Relay](https://img.shields.io/badge/-Waveshare_Relay-C8102E?style=flat-square&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Tooling**
 
@@ -73,6 +105,7 @@ Both programming and crafting require precision and dedication — I enjoy both 
 ![NX](https://img.shields.io/badge/-NX_Monorepo-143055?style=flat-square&logo=nx&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
@@ -83,17 +116,35 @@ Both programming and crafting require precision and dedication — I enjoy both 
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| **DepoDart** | Python, PyTorch, CNN/GNN, Next.js, Three.js | ML mineral-exploration platform — predicts subsurface gold/copper targets from fused public geoscience data. |
 | **Sprout** | React Native, Expo, Supabase | Money-affirmations app with mascot branding, paywall, widgets & push notifications. Targeting North America market. |
 | **TestimonialPro** | Remix SSR, Prisma, Stripe | Micro-SaaS for collecting & embedding customer testimonials. Freemium model for solopreneurs. |
 | **PixelMD** | React, Canvas API, ML | Dead pixel detection & repair toolkit with ML-inspired anomaly detection and automated health reports. |
 
 ---
 
+## 📌 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/depodart/DepoDart.ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=depodart&repo=DepoDart.ai&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" /></a>
+<a href="https://github.com/vladik-Didyk/oss-keyshortcut"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vladik-Didyk&repo=oss-keyshortcut&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" /></a>
+<a href="https://github.com/vladik-Didyk/oss-analytics-stack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vladik-Didyk&repo=oss-analytics-stack&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" /></a>
+<a href="https://github.com/vladik-Didyk/portfolio-ai-image-generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vladik-Didyk&repo=portfolio-ai-image-generator&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" /></a>
+<a href="https://github.com/vladik-Didyk/portfolio-e-commerce-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vladik-Didyk&repo=portfolio-e-commerce-project&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" /></a>
+<a href="https://github.com/vladik-Didyk/oss-google-scripts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vladik-Didyk&repo=oss-google-scripts&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" /></a>
+
+</div>
+
+---
+
 ## 💼 Experience Highlights
 
-🔹 **Senior Frontend Developer** @ **EntryCall** — Building a web + mobile platform for **15,000+ users** using NX Monorepo, Remix SSR, and React Native CLI. Built an **LPR system** on NVIDIA Jetson Nano with Python + Docker — camera feed → plate recognition → automatic gate control via relay hardware.
+🔹 **Senior Frontend Developer** — Building a web + mobile platform for **15,000+ users** using NX Monorepo, Remix SSR, and React Native CLI. Built an **LPR (license-plate-recognition) system** on NVIDIA Jetson Nano with Python + Docker + OpenCV — camera feed → plate recognition → automatic gate control via relay hardware.
 
-🔹 **Full Stack Developer** @ **Goodi** (Tel Aviv) — Part of a 10-person team supporting Israel's 3rd largest B2B food service provider (**100,000+ users**). Built React dashboards on GCP and maintained backend APIs.
+🔹 **Full Stack Developer** (Tel Aviv) — Part of a 10-person team supporting Israel's 3rd-largest B2B food-service provider (**100,000+ users**). Built React dashboards on GCP and maintained C# / .NET Core backend APIs.
+
+🔹 **Bid Manager → Engineer** @ **IBM** — Started at IBM Israel at 19; managed **$40M** in annual bid revenue across IBM / Lenovo / partner ecosystems before moving full-time into engineering.
 
 ---
 
@@ -101,9 +152,11 @@ Both programming and crafting require precision and dedication — I enjoy both 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vladik-Didyk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vladik-Didyk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9&count_private=true" />
 &nbsp;
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=vladik-Didyk&theme=radical&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladik-Didyk&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&langs_count=10&count_private=true" />
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=vladik-Didyk&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
