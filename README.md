@@ -41,76 +41,39 @@ It fuses ~50 years of public geoscience data — geophysics, geochemistry, litho
 
 ## 🛠️ Tech Stack
 
-**Frontend — Daily Driver**
+<div align="center">
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Remix](https://img.shields.io/badge/-Remix-000000?style=flat-square&logo=remix&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,remix,redux,nodejs,fastapi,cs,dotnet,prisma&theme=dark&perline=11" alt="frontend & backend" />
 
-**Mobile**
+<img src="https://skillicons.dev/icons?i=expo,androidstudio,xcode,python,pytorch,tensorflow,opencv,docker,nginx,linux&theme=dark&perline=11" alt="mobile, ml & devops" />
 
-![React Native](https://img.shields.io/badge/-React_Native_CLI-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase,aws,gcp,vercel,netlify,git,raspberrypi&theme=dark&perline=11" alt="data, cloud & iot" />
 
-**Machine Learning & AI**
+<br/>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![CNN / GNN](https://img.shields.io/badge/-CNN_%2F_GNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+<kbd> 🧠 ML / AI </kbd> &nbsp;
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![CNN / GNN](https://img.shields.io/badge/-CNN_·_GNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Autoencoders](https://img.shields.io/badge/-Autoencoders-8E44AD?style=flat-square)
 
-**Backend & APIs**
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-**Databases & BaaS**
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
-
-**Hardware & IoT**
-
+<kbd> 🔌 Embedded / IoT </kbd> &nbsp;
 ![NVIDIA Jetson](https://img.shields.io/badge/-NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![Waveshare Relay](https://img.shields.io/badge/-Waveshare_Relay-C8102E?style=flat-square&logo=raspberrypi&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![LPR](https://img.shields.io/badge/-LPR_·_Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Tooling**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![NX](https://img.shields.io/badge/-NX_Monorepo-143055?style=flat-square&logo=nx&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+<kbd> ⚡ AI-Native Dev </kbd> &nbsp;
+![Claude Code](https://img.shields.io/badge/-Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
----
+<kbd> 🧰 Tooling </kbd> &nbsp;
+![NX](https://img.shields.io/badge/-NX_Monorepo-143055?style=flat-square&logo=nx&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+
+</div>
 
 ## 💼 Experience Highlights
 
