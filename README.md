@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Vlad%20Didyk&fontSize=50&fontColor=e94560&fontAlignY=35&desc=Full-Stack%20%26%20Systems%20Engineer%20%7C%207%2B%20Years%20%7C%2012%2B%20in%20Tech&descSize=17&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Vlad%20Didyk&fontSize=50&fontColor=e94560&fontAlignY=35&desc=Full-Stack%20%C2%B7%20Systems%20Engineer%20%7C%207%2B%20Years%20%7C%2012%2B%20in%20Tech&descSize=17&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/-Vladislav%20Didyk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-didyk/)
 [![Email](https://img.shields.io/badge/-vladik.didyk@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladik.didyk@gmail.com)
