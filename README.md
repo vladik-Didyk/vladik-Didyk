@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/skill-chart.svg" width="100%" alt="Skill map — time vs experience" />
+<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/skill-chart.svg?v=2" width="100%" alt="Skill map — time vs experience" />
 
 </div>
 
