@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84">
+<defs>
+<linearGradient id="c" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2c3322"/><stop offset="0.5" stop-color="#46371f"/><stop offset="1" stop-color="#1c150c"/></linearGradient>
+<radialGradient id="v" cx="0.5" cy="0.5" r="0.8"><stop offset="0.5" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#0a0704" stop-opacity="0.7"/></radialGradient>
+<linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f0dca0"/><stop offset="1" stop-color="#b8923a"/></linearGradient>
+</defs>
+<rect width="1200" height="84" rx="12" fill="url(#c)"/>
+<text x="600.0" y="50" text-anchor="middle" font-size="30" font-weight="700" fill="url(#g)" font-family='Georgia,Garamond,serif'>GitHub Activity</text>
+<rect x="490.0" y="62" width="220" height="2" rx="1" fill="#b8923a" opacity="0.7"/>
+<rect width="1200" height="84" rx="12" fill="url(#v)"/>
+</svg>
