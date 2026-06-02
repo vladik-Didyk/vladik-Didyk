@@ -49,13 +49,16 @@ It fuses ~50 years of public geoscience data — geophysics, geochemistry, litho
 
 </div>
 
-## 💼 Experience Highlights
+## 🌐 Live Projects
 
-🔹 **Senior Frontend Developer** — Building a web + mobile platform for **15,000+ users** using NX Monorepo, Remix SSR, and React Native CLI. Built an **LPR (license-plate-recognition) system** on NVIDIA Jetson Nano with Python + Docker + OpenCV — camera feed → plate recognition → automatic gate control via relay hardware.
+Products & sites I've built and ship on **Cloudflare** — all live in production:
 
-🔹 **Full Stack Developer** (Tel Aviv) — Part of a 10-person team supporting Israel's 3rd-largest B2B food-service provider (**100,000+ users**). Built React dashboards on GCP and maintained C# / .NET Core backend APIs.
-
-🔹 **Bid Manager → Engineer** @ **IBM** — Started at IBM Israel at 19; managed **$40M** in annual bid revenue across IBM / Lenovo / partner ecosystems before moving full-time into engineering.
+| Site | What it is |
+|------|------------|
+| **[depodart.com](https://depodart.com)** | **DepoDart** — ML mineral-exploration platform predicting subsurface gold/copper targets from fused geoscience data |
+| **[keyshortcut.com](https://keyshortcut.com)** | **KeyShortcut** — searchable directory of **4,888+** keyboard shortcuts across macOS · Windows · Linux |
+| **[416skin.com](https://416skin.com)** | **416 Skin** — Toronto medical-aesthetics studio site (client build) |
+| **[didyk.dev](https://didyk.dev)** | **Portfolio** — selected web, mobile & native engineering work |
 
 ---
 
