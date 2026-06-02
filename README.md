@@ -54,22 +54,6 @@
 
 ---
 
-## 🧠 Flagship — DepoDart · ML for Mineral Exploration
-
-**[DepoDart](https://github.com/depodart)** is a **mineral-exploration intelligence platform** I'm building — it predicts where gold, copper, and other targets sit beneath the surface *before a single dollar is spent drilling*.
-
-It fuses ~50 years of public geoscience data — geophysics, geochemistry, lithology — across vendor formats and jurisdictions, then runs a multi-modal ML model to produce per-coordinate **prospectivity heat maps**, calibrated against ground-truth assays.
-
-- 🗺️ **6M+ rock-geochemistry samples** harmonized across Canada, USA, Australia & Europe
-- 🧩 Parsers for **27 distinct contractor data formats** (Geosoft `.gdb`, ZTEM, VTEM, DIGHEM…) most tools can't read
-- 🤖 Multi-modal ML — **CNN + GNN + autoencoder + evolutionary search**, GPU-accelerated
-- 📐 Canonical **123-mineral** schema for direct cross-jurisdiction comparison
-- 🎯 Output: **drillable target maps** (2D & 3D), ranked by predicted grade × confidence
-
-> *For roughly the cost of three drill holes, it tells you where to drill the next three hundred.*
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%" />
