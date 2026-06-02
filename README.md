@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/banner.svg" width="100%" alt="Vlad Didyk — Full-Stack & Systems Engineer · ML · Web · Mobile · Embedded/IoT" />
+<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/banner.svg?v=2" width="100%" alt="Vlad Didyk — Full-Stack & Systems Engineer · ML · Web · Mobile · Embedded/IoT" />
 
 [![LinkedIn](https://img.shields.io/badge/-Vladislav%20Didyk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-didyk/)
 [![Email](https://img.shields.io/badge/-vladik.didyk@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladik.didyk@gmail.com)
