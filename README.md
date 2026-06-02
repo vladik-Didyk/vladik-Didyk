@@ -23,32 +23,6 @@ Both programming and crafting require precision and dedication — I enjoy both 
 
 ---
 
-## 🧠 Flagship — DepoDart · ML for Mineral Exploration
-
-**[DepoDart](https://github.com/depodart)** is a **mineral-exploration intelligence platform** I'm building — it predicts where gold, copper, and other targets sit beneath the surface *before a single dollar is spent drilling*.
-
-It fuses ~50 years of public geoscience data — geophysics, geochemistry, lithology — across vendor formats and jurisdictions, then runs a multi-modal ML model to produce per-coordinate **prospectivity heat maps**, calibrated against ground-truth assays.
-
-- 🗺️ **6M+ rock-geochemistry samples** harmonized across Canada, USA, Australia & Europe
-- 🧩 Parsers for **27 distinct contractor data formats** (Geosoft `.gdb`, ZTEM, VTEM, DIGHEM…) most tools can't read
-- 🤖 Multi-modal ML — **CNN + GNN + autoencoder + evolutionary search**, GPU-accelerated
-- 📐 Canonical **123-mineral** schema for direct cross-jurisdiction comparison
-- 🎯 Output: **drillable target maps** (2D & 3D), ranked by predicted grade × confidence
-
-> *For roughly the cost of three drill holes, it tells you where to drill the next three hundred.*
-
----
-
-## 🛠️ Tech Stack
-
-> Each technology plotted by **time** (x — years of hands-on) against **experience** (y — proficiency). The icons *are* the data points.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/skill-chart.svg" width="100%" alt="Skill map — time vs experience" />
-
-</div>
-
 ## 🌐 Live Projects
 
 Products & sites I've built and ship on **Cloudflare** — all live in production:
@@ -79,6 +53,34 @@ Products & sites I've built and ship on **Cloudflare** — all live in productio
 <img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/github-metrics.svg" width="100%" alt="GitHub metrics — stats, languages, activity calendar" />
 
 </div>
+
+---
+
+## 🛠️ Tech Stack
+
+> Each technology plotted by **time** (x — years of hands-on) against **experience** (y — proficiency). The icons *are* the data points.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/skill-chart.svg" width="100%" alt="Skill map — time vs experience" />
+
+</div>
+
+---
+
+## 🧠 Flagship — DepoDart · ML for Mineral Exploration
+
+**[DepoDart](https://github.com/depodart)** is a **mineral-exploration intelligence platform** I'm building — it predicts where gold, copper, and other targets sit beneath the surface *before a single dollar is spent drilling*.
+
+It fuses ~50 years of public geoscience data — geophysics, geochemistry, lithology — across vendor formats and jurisdictions, then runs a multi-modal ML model to produce per-coordinate **prospectivity heat maps**, calibrated against ground-truth assays.
+
+- 🗺️ **6M+ rock-geochemistry samples** harmonized across Canada, USA, Australia & Europe
+- 🧩 Parsers for **27 distinct contractor data formats** (Geosoft `.gdb`, ZTEM, VTEM, DIGHEM…) most tools can't read
+- 🤖 Multi-modal ML — **CNN + GNN + autoencoder + evolutionary search**, GPU-accelerated
+- 📐 Canonical **123-mineral** schema for direct cross-jurisdiction comparison
+- 🎯 Output: **drillable target maps** (2D & 3D), ranked by predicted grade × confidence
+
+> *For roughly the cost of three drill holes, it tells you where to drill the next three hundred.*
 
 ---
 
