@@ -15,13 +15,13 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/skill-chart.svg?v=2" width="100%" alt="Skill map — time vs experience" />
+<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/skill-chart.svg?v=3" width="100%" alt="Skill map — time vs experience" />
 
 </div>
 
 ---
 
-## 🌐 Live Projects
+<div align="center"><img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/header-live.svg?v=1" width="100%" alt="Live Projects" /></div>
 
 | Site | What it is |
 |------|------------|
@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 GitHub Activity
+<div align="center"><img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/header-activity.svg?v=1" width="100%" alt="GitHub Activity" /></div>
 
 <div align="center">
 
