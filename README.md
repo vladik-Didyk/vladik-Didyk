@@ -13,8 +13,6 @@
 
 ## 🌐 Live Projects
 
-Products & sites I've built and ship on **Cloudflare** — all live in production:
-
 | Site | What it is |
 |------|------------|
 | **[depodart.com](https://depodart.com)** | **DepoDart** — ML mineral-exploration platform predicting subsurface gold/copper targets from fused geoscience data |
