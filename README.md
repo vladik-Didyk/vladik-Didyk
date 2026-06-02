@@ -11,6 +11,16 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/skill-chart.svg" width="100%" alt="Skill map — time vs experience" />
+
+</div>
+
+---
+
 ## 🌐 Live Projects
 
 | Site | What it is |
@@ -37,18 +47,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vladik-Didyk&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&area_color=e94560&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
 
 <img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/github-metrics.svg" width="100%" alt="GitHub metrics — stats, languages, activity calendar" />
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-> Each technology plotted by **time** (x — years of hands-on) against **experience** (y — proficiency). The icons *are* the data points.
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/skill-chart.svg" width="100%" alt="Skill map — time vs experience" />
 
 </div>
 
