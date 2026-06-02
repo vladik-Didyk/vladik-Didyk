@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/banner.svg?v=4" width="100%" alt="Vlad Didyk — Full-Stack & Systems Engineer · ML · Web · Mobile · Embedded/IoT" />
+<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/banner.svg?v=5" width="100%" alt="Vlad Didyk — Full-Stack & Systems Engineer · ML · Web · Mobile · Embedded/IoT" />
 
 [![LinkedIn](https://img.shields.io/badge/-Vladislav%20Didyk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-didyk/)
 [![Email](https://img.shields.io/badge/-vladik.didyk@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladik.didyk@gmail.com)
@@ -15,13 +15,13 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/skill-chart.svg?v=4" width="100%" alt="Skill map — time vs experience" />
+<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/skill-chart.svg?v=5" width="100%" alt="Skill map — time vs experience" />
 
 </div>
 
 ---
 
-<div align="center"><img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/header-live.svg?v=2" width="100%" alt="Live Projects" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/header-live.svg?v=3" width="100%" alt="Live Projects" /></div>
 
 | Site | What it is |
 |------|------------|
@@ -32,7 +32,7 @@
 
 ---
 
-<div align="center"><img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/header-activity.svg?v=2" width="100%" alt="GitHub Activity" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/header-activity.svg?v=3" width="100%" alt="GitHub Activity" /></div>
 
 <div align="center">
 
