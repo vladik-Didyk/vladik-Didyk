@@ -1,11 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="84" viewBox="0 0 1200 84">
-<defs>
-<linearGradient id="c" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2c3322"/><stop offset="0.5" stop-color="#46371f"/><stop offset="1" stop-color="#1c150c"/></linearGradient>
-<radialGradient id="v" cx="0.5" cy="0.5" r="0.8"><stop offset="0.5" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#0a0704" stop-opacity="0.7"/></radialGradient>
-<linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f0dca0"/><stop offset="1" stop-color="#b8923a"/></linearGradient>
-</defs>
-<rect width="1200" height="84" rx="12" fill="url(#c)"/>
-<text x="600.0" y="50" text-anchor="middle" font-size="30" font-weight="700" fill="url(#g)" font-family='Georgia,Garamond,serif'>Live Projects</text>
-<rect x="490.0" y="62" width="220" height="2" rx="1" fill="#b8923a" opacity="0.7"/>
-<rect width="1200" height="84" rx="12" fill="url(#v)"/>
+<defs><linearGradient id="canvas" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0a2a"/><stop offset="0.42" stop-color="#241a5e"/><stop offset="0.72" stop-color="#0a1b44"/><stop offset="1" stop-color="#060818"/></linearGradient><linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ff"/><stop offset="0.5" stop-color="#a855f7"/><stop offset="1" stop-color="#ff2d95"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.45" r="0.6"><stop offset="0" stop-color="#a855f7" stop-opacity="0.40"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient><radialGradient id="vig" cx="0.5" cy="0.5" r="0.78"><stop offset="0.55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#04040f" stop-opacity="0.8"/></radialGradient></defs>
+<rect width="1200" height="84" rx="12" fill="url(#canvas)"/>
+<line x1="0" y1="70" x2="1200" y2="70" stroke="#22d3ff" stroke-width="1.5" opacity="0.4"/>
+<text x="600.0" y="50" text-anchor="middle" font-size="30" font-weight="800" fill="url(#neon)" font-family='Segoe UI,Helvetica,Arial,sans-serif'>Live Projects</text>
+<rect x="490.0" y="60" width="220" height="2" rx="1" fill="url(#neon)"/>
+<rect width="1200" height="84" rx="12" fill="url(#vig)"/>
 </svg>
