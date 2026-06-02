@@ -1,25 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Vlad%20Didyk&fontSize=50&fontColor=e94560&fontAlignY=35&desc=Full-Stack%20%C2%B7%20Systems%20Engineer%20%7C%207%2B%20Years%20%7C%2012%2B%20in%20Tech&descSize=17&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=240&section=header&text=Vlad%20Didyk&fontSize=54&fontColor=e94560&fontAlignY=34&desc=Full-Stack%20%C2%B7%20Systems%20Engineer%20%C2%B7%207%2B%20yrs%20%C2%B7%2012%2B%20in%20tech&descSize=17&descColor=ffffff&descAlignY=52&animation=fadeIn" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/-Vladislav%20Didyk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-didyk/)
 [![Email](https://img.shields.io/badge/-vladik.didyk@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladik.didyk@gmail.com)
 [![Website](https://img.shields.io/badge/-didyk.dev-0f3460?style=for-the-badge&logo=safari&logoColor=white)](https://didyk.dev/)
 [![GitHub](https://img.shields.io/badge/-vladik--Didyk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vladik-Didyk)
 
+### ML &#183; Web &#183; Mobile &#183; Smart-TV &#183; Embedded / IoT
+
+**🇺🇦 &#8594; 🇨🇦 Toronto** &nbsp;&#183;&nbsp; ex-**IBM** (started at 19) &nbsp;&#183;&nbsp; now building **ML** &#8212; [DepoDart](https://github.com/depodart)
+
+From **microfrontends serving 15,000+ users** to **real-time computer vision** on **NVIDIA Jetson** &amp; **Raspberry Pi** &nbsp;&#183;&nbsp; ships indie SaaS to the App Store
+
+🗣️ English &#183; Ukrainian &#183; Russian &#183; Hebrew &nbsp;&nbsp;|&nbsp;&nbsp; 🥋 MMA &amp; Brazilian Jiu-Jitsu
+
 </div>
-
-## `> whoami`
-
-Originally from Ukraine 🇺🇦, now based in **Toronto, Canada** 🇨🇦. **Full-Stack Developer & Systems Engineer** with **7+ years** of hands-on engineering and **12+ years in tech** — I started at **IBM Israel at 19**. I ship end-to-end across an unusually wide surface: web platforms, mobile apps, smart-TV, and **embedded/IoT** — from microfrontend architectures serving **15,000+ users** to real-time computer-vision systems on **NVIDIA Jetson** and **Raspberry Pi**.
-
-My current focus is **applied machine learning** — see **DepoDart** below.
-
-Outside of work, I independently design and ship mobile apps and SaaS products from concept to App Store — including **Sprout** (a money-affirmations app), **PixelMD** (dead pixel detection toolkit), and **TestimonialPro** (a testimonial collection platform).
-
-Both programming and crafting require precision and dedication — I enjoy both equally. When I'm away from the keyboard, you'll find me on the mats training **MMA** and **Brazilian Jiu-Jitsu** 🥋
-
-🗣️ &nbsp;English · Ukrainian · Russian · Hebrew
 
 ---
 
