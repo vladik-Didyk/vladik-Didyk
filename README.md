@@ -23,8 +23,9 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/header-live.svg?v=3" width="100%" alt="Live Projects" /></div>
 
-| Site | What it is |
+| Project | What it is |
 |------|------------|
+| **[analytics-stack](https://www.npmjs.com/package/analytics-stack)** [![npm](https://img.shields.io/npm/v/analytics-stack?color=cb3837&logo=npm&label=npm)](https://www.npmjs.com/package/analytics-stack) | **Published npm package** — drop-in consent-gated analytics (GA4 + Microsoft Clarity + PostHog) in one command: `npx analytics-stack init` |
 | **[depodart.com](https://depodart.com)** | **DepoDart** — ML mineral-exploration platform predicting subsurface gold/copper targets from fused geoscience data |
 | **[keyshortcut.com](https://keyshortcut.com)** | **KeyShortcut** — searchable directory of **4,888+** keyboard shortcuts across macOS · Windows · Linux |
 | **[416skin.com](https://416skin.com)** | **416 Skin** — Toronto medical-aesthetics studio site (client build) |
