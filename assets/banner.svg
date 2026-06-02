@@ -1,19 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="236" viewBox="0 0 1200 236">
-<defs>
-<linearGradient id="canvas" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2c3322"/><stop offset="0.35" stop-color="#46371f"/><stop offset="0.72" stop-color="#2a1f12"/><stop offset="1" stop-color="#140e08"/></linearGradient>
-<radialGradient id="glow" cx="0.5" cy="0.42" r="0.6"><stop offset="0" stop-color="#8a6f33" stop-opacity="0.55"/><stop offset="1" stop-color="#8a6f33" stop-opacity="0"/></radialGradient>
-<radialGradient id="vig" cx="0.5" cy="0.5" r="0.75"><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#0a0704" stop-opacity="0.85"/></radialGradient>
-<linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f0dca0"/><stop offset="0.5" stop-color="#d4b86a"/><stop offset="1" stop-color="#a8842f"/></linearGradient>
-</defs>
+<defs><linearGradient id="canvas" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0a2a"/><stop offset="0.42" stop-color="#241a5e"/><stop offset="0.72" stop-color="#0a1b44"/><stop offset="1" stop-color="#060818"/></linearGradient><linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ff"/><stop offset="0.5" stop-color="#a855f7"/><stop offset="1" stop-color="#ff2d95"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.45" r="0.6"><stop offset="0" stop-color="#a855f7" stop-opacity="0.40"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient><radialGradient id="vig" cx="0.5" cy="0.5" r="0.78"><stop offset="0.55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#04040f" stop-opacity="0.8"/></radialGradient></defs>
 <rect width="1200" height="236" rx="16" fill="url(#canvas)"/>
-<ellipse cx="150" cy="120" rx="260" ry="120" fill="#3a4a2e" opacity="0.18"/>
-<ellipse cx="1050" cy="130" rx="280" ry="130" fill="#4a3a22" opacity="0.16"/>
-<ellipse cx="600" cy="150" rx="520" ry="150" fill="#5a4a28" opacity="0.12"/>
+<line x1="0" y1="206" x2="1200" y2="206" stroke="#22d3ff" stroke-width="2" opacity="0.5"/>
+<line x1="0" y1="216" x2="1200" y2="216" stroke="#ff2d95" stroke-width="1.5" opacity="0.35"/>
 <rect width="1200" height="236" rx="16" fill="url(#glow)"/>
-<text x="602.0" y="104" text-anchor="middle" font-size="62" font-weight="700" fill="#120c06" opacity="0.5" font-family='Georgia,Garamond,Times New Roman,serif'>Vlad Didyk</text>
-<text x="600.0" y="102" text-anchor="middle" font-size="62" font-weight="700" fill="url(#gold)" font-family='Georgia,Garamond,Times New Roman,serif'>Vlad Didyk</text>
-<text x="600.0" y="140" text-anchor="middle" font-size="19" font-style="italic" fill="#cdb27a" font-family='Georgia,Garamond,Times New Roman,serif'>Full-Stack &#183; Systems Engineer &#183; 7+ yrs &#183; 12+ in tech</text>
-<rect x="505.0" y="160" width="190" height="2" rx="1" fill="#b8923a" opacity="0.8"/>
-<text x="600.0" y="194" text-anchor="middle" font-size="22" font-weight="600" fill="#e7d8ab" font-family='Georgia,Garamond,Times New Roman,serif'>ML &#183; Web &#183; Mobile &#183; Smart-TV &#183; Embedded / IoT</text>
+<text x="600.0" y="102" text-anchor="middle" font-size="62" font-weight="800" fill="url(#neon)" font-family='Segoe UI,Helvetica,Arial,sans-serif'>Vlad Didyk</text>
+<text x="600.0" y="140" text-anchor="middle" font-size="19" font-weight="600" fill="#7dd3fc" font-family='Segoe UI,Helvetica,Arial,sans-serif'>Full-Stack &#183; Systems Engineer &#183; 7+ yrs &#183; 12+ in tech</text>
+<rect x="505.0" y="160" width="190" height="2" rx="1" fill="url(#neon)"/>
+<text x="600.0" y="194" text-anchor="middle" font-size="22" font-weight="700" fill="#e6ec ff".replace(" ","")+f" font-family='Segoe UI,Helvetica,Arial,sans-serif'>ML &#183; Web &#183; Mobile &#183; Smart-TV &#183; Embedded / IoT</text>
 <rect width="1200" height="236" rx="16" fill="url(#vig)"/>
 </svg>
