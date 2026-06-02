@@ -1,12 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="236" viewBox="0 0 1200 236">
-<defs><linearGradient id="canvas" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0a2a"/><stop offset="0.42" stop-color="#241a5e"/><stop offset="0.72" stop-color="#0a1b44"/><stop offset="1" stop-color="#060818"/></linearGradient><linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ff"/><stop offset="0.5" stop-color="#a855f7"/><stop offset="1" stop-color="#ff2d95"/></linearGradient><radialGradient id="glow" cx="0.5" cy="0.45" r="0.6"><stop offset="0" stop-color="#a855f7" stop-opacity="0.40"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient><radialGradient id="vig" cx="0.5" cy="0.5" r="0.78"><stop offset="0.55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#04040f" stop-opacity="0.8"/></radialGradient></defs>
+<defs><linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1a1a2e"/><stop offset="0.55" stop-color="#16213e"/><stop offset="1" stop-color="#0f3460"/></linearGradient><linearGradient id="title" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff6b81"/><stop offset="1" stop-color="#e94560"/></linearGradient></defs>
 <rect width="1200" height="236" rx="16" fill="url(#canvas)"/>
-<line x1="0" y1="206" x2="1200" y2="206" stroke="#22d3ff" stroke-width="2" opacity="0.5"/>
-<line x1="0" y1="216" x2="1200" y2="216" stroke="#ff2d95" stroke-width="1.5" opacity="0.35"/>
-<rect width="1200" height="236" rx="16" fill="url(#glow)"/>
-<text x="600.0" y="102" text-anchor="middle" font-size="62" font-weight="800" fill="url(#neon)" font-family='Segoe UI,Helvetica,Arial,sans-serif'>Vlad Didyk</text>
-<text x="600.0" y="140" text-anchor="middle" font-size="19" font-weight="600" fill="#7dd3fc" font-family='Segoe UI,Helvetica,Arial,sans-serif'>Full-Stack &#183; Systems Engineer &#183; 7+ yrs &#183; 12+ in tech</text>
-<rect x="505.0" y="160" width="190" height="2" rx="1" fill="url(#neon)"/>
-<text x="600.0" y="194" text-anchor="middle" font-size="22" font-weight="700" fill="#e6ecff" font-family='Segoe UI,Helvetica,Arial,sans-serif'>ML &#183; Web &#183; Mobile &#183; Smart-TV &#183; Embedded / IoT</text>
-<rect width="1200" height="236" rx="16" fill="url(#vig)"/>
+<path d="M0,192 C260,168 470,220 700,200 C930,180 1040,216 1200,200 L1200,236 L0,236 Z" fill="#0c1a33" opacity="0.7"/>
+<path d="M0,210 C260,190 470,236 700,216 C930,198 1040,232 1200,216 L1200,236 L0,236 Z" fill="#0a1530" opacity="0.6"/>
+<text x="600.0" y="102" text-anchor="middle" font-size="62" font-weight="800" fill="url(#title)" font-family='Segoe UI,Helvetica,Arial,sans-serif'>Vlad Didyk</text>
+<text x="600.0" y="140" text-anchor="middle" font-size="19" font-weight="600" fill="#ff8a9b" font-family='Segoe UI,Helvetica,Arial,sans-serif'>Full-Stack &#183; Systems Engineer &#183; 7+ yrs &#183; 12+ in tech</text>
+<rect x="505.0" y="160" width="190" height="2" rx="1" fill="#e94560" opacity="0.8"/>
+<text x="600.0" y="194" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff" font-family='Segoe UI,Helvetica,Arial,sans-serif'>ML &#183; Web &#183; Mobile &#183; Smart-TV &#183; Embedded / IoT</text>
 </svg>
