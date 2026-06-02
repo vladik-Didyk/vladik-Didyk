@@ -7,6 +7,6 @@
 <text x="600.0" y="102" text-anchor="middle" font-size="62" font-weight="800" fill="url(#neon)" font-family='Segoe UI,Helvetica,Arial,sans-serif'>Vlad Didyk</text>
 <text x="600.0" y="140" text-anchor="middle" font-size="19" font-weight="600" fill="#7dd3fc" font-family='Segoe UI,Helvetica,Arial,sans-serif'>Full-Stack &#183; Systems Engineer &#183; 7+ yrs &#183; 12+ in tech</text>
 <rect x="505.0" y="160" width="190" height="2" rx="1" fill="url(#neon)"/>
-<text x="600.0" y="194" text-anchor="middle" font-size="22" font-weight="700" fill="#e6ec ff".replace(" ","")+f" font-family='Segoe UI,Helvetica,Arial,sans-serif'>ML &#183; Web &#183; Mobile &#183; Smart-TV &#183; Embedded / IoT</text>
+<text x="600.0" y="194" text-anchor="middle" font-size="22" font-weight="700" fill="#e6ecff" font-family='Segoe UI,Helvetica,Arial,sans-serif'>ML &#183; Web &#183; Mobile &#183; Smart-TV &#183; Embedded / IoT</text>
 <rect width="1200" height="236" rx="16" fill="url(#vig)"/>
 </svg>
