@@ -26,6 +26,7 @@
 | Project | What it is |
 |------|------------|
 | **[analytics-stack](https://www.npmjs.com/package/analytics-stack)** [![npm](https://img.shields.io/npm/v/analytics-stack?color=cb3837&logo=npm&label=npm)](https://www.npmjs.com/package/analytics-stack) | **Published npm package** — drop-in consent-gated analytics (GA4 + Microsoft Clarity + PostHog) in one command: `npx analytics-stack init` |
+| **[i18n-keykit](https://www.npmjs.com/package/i18n-keykit)** [![npm](https://img.shields.io/npm/v/i18n-keykit?color=cb3837&logo=npm&label=npm)](https://www.npmjs.com/package/i18n-keykit) | **Published npm package** — keeps i18n message keys in parity across locales: a CI parity guard + scaffolding CLI, with next-intl helpers & Claude Code translation commands: `npx i18n-keykit init` |
 | **[depodart.com](https://depodart.com)** | **DepoDart** — ML mineral-exploration platform predicting subsurface gold/copper targets from fused geoscience data |
 | **[keyshortcut.com](https://keyshortcut.com)** | **KeyShortcut** — searchable directory of **4,888+** keyboard shortcuts across macOS · Windows · Linux |
 | **[416skin.com](https://416skin.com)** | **416 Skin** — Toronto medical-aesthetics studio site (client build) |
