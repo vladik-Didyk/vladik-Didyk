@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/tech-stack.svg?v=1" width="100%" alt="Tech stack — time vs experience, animated" />
+<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/tech-stack.svg?v=2" width="100%" alt="Tech stack — time vs experience, animated" />
 
 </div>
 
