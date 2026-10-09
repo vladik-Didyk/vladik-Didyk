@@ -1,0 +1,287 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660" role="img" aria-labelledby="ts-title ts-desc">
+  <title id="ts-title">Tech Stack · Time × Experience</title>
+  <desc id="ts-desc">Every tool plotted by years of hands-on experience (x) and proficiency (y). Tools float and connected stacks pulse.</desc>
+  <defs>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1a2e"/><stop offset="0.55" stop-color="#16213e"/><stop offset="1" stop-color="#0f3460"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff6b81"/><stop offset="1" stop-color="#e94560"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e94560" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#e94560" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#e94560" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse" class="drift">
+      <circle cx="2" cy="2" r="1.2" fill="#2a3550"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .title { font: 800 30px Segoe UI, Helvetica, Arial, sans-serif; fill: url(#title); }
+    .sub { font: 500 14px Segoe UI, Helvetica, Arial, sans-serif; fill: #8b949e; }
+    .tick { font: 500 12px Segoe UI, Helvetica, Arial, sans-serif; fill: #6e7681; }
+    .axis { font: 600 13px Segoe UI, Helvetica, Arial, sans-serif; fill: #8b949e; letter-spacing: .04em; }
+    .grid { stroke: #1f2940; stroke-width: 1; }
+    .label { font: 600 13px Segoe UI, Helvetica, Arial, sans-serif; fill: #c9d1d9; paint-order: stroke; stroke: #0f1420; stroke-width: 4px; stroke-linejoin: round; }
+    .pill { font: 800 15px Segoe UI, Helvetica, Arial, sans-serif; }
+    .node { animation: bob 5s ease-in-out infinite; }
+    .halo { opacity: 0; transform-box: fill-box; transform-origin: center; animation-name: pulse; animation-iteration-count: infinite; animation-timing-function: ease-out; }
+    .flow { stroke: #e94560; stroke-width: 1.6; stroke-dasharray: 4 9; stroke-opacity: .55; animation: flow 1.6s linear infinite; }
+    .scanline { fill: url(#scan); animation: scan 9s linear infinite; }
+    .drift { animation: drift 24s linear infinite; }
+    .spark { filter: drop-shadow(0 0 4px currentColor); }
+    @keyframes bob { 0%,100% { transform: translate(0,0); } 50% { transform: translate(0,-6px); } }
+    @keyframes pulse { 0% { opacity: .35; transform: scale(.85); } 100% { opacity: 0; transform: scale(1.5); } }
+    @keyframes flow { to { stroke-dashoffset: -26; } }
+    @keyframes scan { 0% { transform: translateX(0); } 100% { transform: translateX(1002px); } }
+    @keyframes drift { to { transform: translate(28px, 28px); } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+
+  <rect width="1200" height="660" rx="16" fill="url(#canvas)"/>
+
+  <text x="600" y="52" text-anchor="middle" class="title">Tech Stack · Time × Experience</text>
+  <text x="600" y="78" text-anchor="middle" class="sub">every tool plotted by years of hands-on (x) and proficiency (y)</text>
+
+  <rect x="96" y="104" width="1008" height="500" rx="10" fill="#0f1420" stroke="#2a3550"/>
+  <clipPath id="plot"><rect x="96" y="104" width="1008" height="500" rx="10"/></clipPath>
+  <g clip-path="url(#plot)">
+    <rect x="96" y="104" width="1048" height="540" fill="url(#dots)" opacity=".6"/>
+    <rect class="scanline" x="96" y="104" width="6" height="500"/>
+  </g>
+
+  <line x1="180.0" y1="104" x2="180.0" y2="604" class="grid"/>
+  <text x="180.0" y="626" text-anchor="middle" class="tick">1y</text>
+  <line x1="320.0" y1="104" x2="320.0" y2="604" class="grid"/>
+  <text x="320.0" y="626" text-anchor="middle" class="tick">2y</text>
+  <line x1="460.0" y1="104" x2="460.0" y2="604" class="grid"/>
+  <text x="460.0" y="626" text-anchor="middle" class="tick">3y</text>
+  <line x1="600.0" y1="104" x2="600.0" y2="604" class="grid"/>
+  <text x="600.0" y="626" text-anchor="middle" class="tick">4y</text>
+  <line x1="740.0" y1="104" x2="740.0" y2="604" class="grid"/>
+  <text x="740.0" y="626" text-anchor="middle" class="tick">5y</text>
+  <line x1="880.0" y1="104" x2="880.0" y2="604" class="grid"/>
+  <text x="880.0" y="626" text-anchor="middle" class="tick">6y</text>
+  <line x1="1020.0" y1="104" x2="1020.0" y2="604" class="grid"/>
+  <text x="1020.0" y="626" text-anchor="middle" class="tick">7y</text>
+  <line x1="96" y1="520.7" x2="1104" y2="520.7" class="grid"/>
+  <text x="84" y="520.7" dy="4" text-anchor="end" class="tick">6</text>
+  <line x1="96" y1="416.5" x2="1104" y2="416.5" class="grid"/>
+  <text x="84" y="416.5" dy="4" text-anchor="end" class="tick">7</text>
+  <line x1="96" y1="312.3" x2="1104" y2="312.3" class="grid"/>
+  <text x="84" y="312.3" dy="4" text-anchor="end" class="tick">8</text>
+  <line x1="96" y1="208.2" x2="1104" y2="208.2" class="grid"/>
+  <text x="84" y="208.2" dy="4" text-anchor="end" class="tick">9</text>
+
+  <text x="600" y="654" text-anchor="middle" class="axis">TIME → years of hands-on</text>
+  <text transform="translate(38 354) rotate(-90)" text-anchor="middle" class="axis">EXPERIENCE → proficiency</text>
+
+  <g class="links">
+  <line class="flow" x1="600.0" y1="176.9" x2="992.0" y2="260.3" style="animation-delay:-0.00s"/>
+  <line class="flow" x1="698.0" y1="176.9" x2="979.5" y2="176.9" style="animation-delay:-0.45s"/>
+  <line class="flow" x1="180.0" y1="218.6" x2="992.0" y2="260.3" style="animation-delay:-0.90s"/>
+  <line class="flow" x1="586.0" y1="458.6" x2="180.0" y2="218.6" style="animation-delay:-1.35s"/>
+  <line class="flow" x1="908.0" y1="312.3" x2="726.0" y2="312.3" style="animation-delay:-1.80s"/>
+  <line class="flow" x1="446.0" y1="343.6" x2="726.0" y2="312.3" style="animation-delay:-2.25s"/>
+  <line class="flow" x1="628.0" y1="301.9" x2="222.0" y2="306.8" style="animation-delay:-2.70s"/>
+  <line class="flow" x1="222.0" y1="306.8" x2="166.0" y2="380.4" style="animation-delay:-3.15s"/>
+  <line class="flow" x1="166.0" y1="380.4" x2="312.8" y2="426.9" style="animation-delay:-3.60s"/>
+  <line class="flow" x1="564.8" y1="385.0" x2="586.0" y2="531.6" style="animation-delay:-4.05s"/>
+  <line class="flow" x1="404.0" y1="558.0" x2="405.3" y2="485.5" style="animation-delay:-4.50s"/>
+  <line class="flow" x1="166.0" y1="541.5" x2="166.0" y2="458.2" style="animation-delay:-4.95s"/>
+  </g>
+
+  <g class="node" style="animation-duration:3.60s;animation-delay:0.00s">
+    <circle class="halo" cx="600.0" cy="176.9" r="35" fill="#e6edf3" style="animation-duration:3.60s;animation-delay:0.00s"/>
+    <circle cx="600.0" cy="176.9" r="25" fill="#0b1020" stroke="#e6edf3" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#e6edf3" transform="translate(587.0 163.9) scale(1.0833)"/>
+    <text x="600.0" y="218.9" text-anchor="middle" class="label">Remix</text>
+  </g>
+  <g class="node" style="animation-duration:4.30s;animation-delay:-5.30s">
+    <circle class="halo" cx="698.0" cy="176.9" r="35" fill="#e6edf3" style="animation-duration:4.30s;animation-delay:-5.30s"/>
+    <circle cx="698.0" cy="176.9" r="25" fill="#0b1020" stroke="#e6edf3" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#e6edf3" transform="translate(685.0 163.9) scale(1.0833)"/>
+    <text x="698.0" y="218.9" text-anchor="middle" class="label">NX</text>
+  </g>
+  <g class="node" style="animation-duration:5.00s;animation-delay:-4.60s">
+    <circle class="halo" cx="979.5" cy="176.9" r="35" fill="#3178C6" style="animation-duration:5.00s;animation-delay:-4.60s"/>
+    <circle cx="979.5" cy="176.9" r="25" fill="#0b1020" stroke="#3178C6" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#3178C6" transform="translate(966.5 163.9) scale(1.0833)"/>
+    <text x="979.5" y="218.9" text-anchor="middle" class="label">TypeScript</text>
+  </g>
+  <g class="node" style="animation-duration:5.70s;animation-delay:-3.90s">
+    <circle class="halo" cx="1059.0" cy="155.6" r="35" fill="#F7DF1E" style="animation-duration:5.70s;animation-delay:-3.90s"/>
+    <circle cx="1059.0" cy="155.6" r="25" fill="#0b1020" stroke="#F7DF1E" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#F7DF1E" transform="translate(1046.0 142.6) scale(1.0833)"/>
+    <text x="1059.0" y="197.6" text-anchor="middle" class="label">JavaScript</text>
+  </g>
+  <g class="node" style="animation-duration:6.40s;animation-delay:-3.20s">
+    <circle class="halo" cx="1072.0" cy="229.5" r="35" fill="#F03C2E" style="animation-duration:6.40s;animation-delay:-3.20s"/>
+    <circle cx="1072.0" cy="229.5" r="25" fill="#0b1020" stroke="#F03C2E" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#F03C2E" transform="translate(1059.0 216.5) scale(1.0833)"/>
+    <text x="1072.0" y="271.5" text-anchor="middle" class="label">Git</text>
+  </g>
+  <g class="node" style="animation-duration:4.10s;animation-delay:-2.50s">
+    <circle class="halo" cx="992.0" cy="260.3" r="35" fill="#61DAFB" style="animation-duration:4.10s;animation-delay:-2.50s"/>
+    <circle cx="992.0" cy="260.3" r="25" fill="#0b1020" stroke="#61DAFB" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#61DAFB" transform="translate(979.0 247.3) scale(1.0833)"/>
+    <text x="992.0" y="302.3" text-anchor="middle" class="label">React</text>
+  </g>
+  <g class="node" style="animation-duration:4.80s;animation-delay:-1.80s">
+    <circle class="halo" cx="180.0" cy="218.6" r="35" fill="#e6edf3" style="animation-duration:4.80s;animation-delay:-1.80s"/>
+    <circle cx="180.0" cy="218.6" r="25" fill="#0b1020" stroke="#e6edf3" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#e6edf3" transform="translate(167.0 205.6) scale(1.0833)"/>
+    <text x="180.0" y="260.6" text-anchor="middle" class="label">Next.js</text>
+  </g>
+  <g class="node" style="animation-duration:5.50s;animation-delay:-1.10s">
+    <circle class="halo" cx="908.0" cy="312.3" r="35" fill="#5FA04E" style="animation-duration:5.50s;animation-delay:-1.10s"/>
+    <circle cx="908.0" cy="312.3" r="25" fill="#0b1020" stroke="#5FA04E" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#5FA04E" transform="translate(895.0 299.3) scale(1.0833)"/>
+    <text x="908.0" y="354.3" text-anchor="middle" class="label">Node.js</text>
+  </g>
+  <g class="node" style="animation-duration:6.20s;animation-delay:-0.40s">
+    <circle class="halo" cx="726.0" cy="312.3" r="35" fill="#4169E1" style="animation-duration:6.20s;animation-delay:-0.40s"/>
+    <circle cx="726.0" cy="312.3" r="25" fill="#0b1020" stroke="#4169E1" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#4169E1" transform="translate(713.0 299.3) scale(1.0833)"/>
+    <text x="726.0" y="354.3" text-anchor="middle" class="label">PostgreSQL</text>
+  </g>
+  <g class="node" style="animation-duration:3.90s;animation-delay:-5.70s">
+    <circle class="halo" cx="628.0" cy="301.9" r="35" fill="#3776AB" style="animation-duration:3.90s;animation-delay:-5.70s"/>
+    <circle cx="628.0" cy="301.9" r="25" fill="#0b1020" stroke="#3776AB" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#3776AB" transform="translate(615.0 288.9) scale(1.0833)"/>
+    <text x="628.0" y="343.9" text-anchor="middle" class="label">Python</text>
+  </g>
+  <g class="node" style="animation-duration:4.60s;animation-delay:-5.00s">
+    <circle class="halo" cx="222.0" cy="306.8" r="35" fill="#EE4C2C" style="animation-duration:4.60s;animation-delay:-5.00s"/>
+    <circle cx="222.0" cy="306.8" r="25" fill="#0b1020" stroke="#EE4C2C" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#EE4C2C" transform="translate(209.0 293.8) scale(1.0833)"/>
+    <text x="222.0" y="348.8" text-anchor="middle" class="label">PyTorch</text>
+  </g>
+  <g class="node" style="animation-duration:5.30s;animation-delay:-4.30s">
+    <circle class="halo" cx="530.0" cy="311.6" r="35" fill="#764ABC" style="animation-duration:5.30s;animation-delay:-4.30s"/>
+    <circle cx="530.0" cy="311.6" r="25" fill="#0b1020" stroke="#764ABC" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#764ABC" transform="translate(517.0 298.6) scale(1.0833)"/>
+    <text x="530.0" y="353.6" text-anchor="middle" class="label">Redux</text>
+  </g>
+  <g class="node" style="animation-duration:6.00s;animation-delay:-3.60s">
+    <circle class="halo" cx="446.0" cy="343.6" r="35" fill="#3FCF8E" style="animation-duration:6.00s;animation-delay:-3.60s"/>
+    <circle cx="446.0" cy="343.6" r="25" fill="#0b1020" stroke="#3FCF8E" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#3FCF8E" transform="translate(433.0 330.6) scale(1.0833)"/>
+    <text x="446.0" y="385.6" text-anchor="middle" class="label">Supabase</text>
+  </g>
+  <g class="node" style="animation-duration:3.70s;animation-delay:-2.90s">
+    <circle class="halo" cx="166.0" cy="380.4" r="35" fill="#FFD21E" style="animation-duration:3.70s;animation-delay:-2.90s"/>
+    <circle cx="166.0" cy="380.4" r="25" fill="#0b1020" stroke="#FFD21E" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#FFD21E" transform="translate(153.0 367.4) scale(1.0833)"/>
+    <text x="166.0" y="422.4" text-anchor="middle" class="label">Hugging Face</text>
+  </g>
+  <g class="node" style="animation-duration:4.40s;animation-delay:-2.20s">
+    <circle class="halo" cx="312.8" cy="426.9" r="35" fill="#5C3EE8" style="animation-duration:4.40s;animation-delay:-2.20s"/>
+    <circle cx="312.8" cy="426.9" r="25" fill="#0b1020" stroke="#5C3EE8" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#5C3EE8" transform="translate(299.8 413.9) scale(1.0833)"/>
+    <text x="312.8" y="468.9" text-anchor="middle" class="label">OpenCV</text>
+  </g>
+  <g class="node" style="animation-duration:5.10s;animation-delay:-1.50s">
+    <circle class="halo" cx="257.2" cy="468.6" r="35" fill="#EA4B71" style="animation-duration:5.10s;animation-delay:-1.50s"/>
+    <circle cx="257.2" cy="468.6" r="25" fill="#0b1020" stroke="#EA4B71" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#EA4B71" transform="translate(244.2 455.6) scale(1.0833)"/>
+    <text x="257.2" y="510.6" text-anchor="middle" class="label">n8n</text>
+  </g>
+  <g class="node" style="animation-duration:5.80s;animation-delay:-0.80s">
+    <circle class="halo" cx="564.8" cy="385.0" r="35" fill="#2496ED" style="animation-duration:5.80s;animation-delay:-0.80s"/>
+    <circle cx="564.8" cy="385.0" r="25" fill="#0b1020" stroke="#2496ED" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#2496ED" transform="translate(551.8 372.0) scale(1.0833)"/>
+    <text x="564.8" y="427.0" text-anchor="middle" class="label">Docker</text>
+  </g>
+  <g class="node" style="animation-duration:6.50s;animation-delay:-0.10s">
+    <circle class="halo" cx="509.2" cy="409.5" r="35" fill="#4945FF" style="animation-duration:6.50s;animation-delay:-0.10s"/>
+    <circle cx="509.2" cy="409.5" r="25" fill="#0b1020" stroke="#4945FF" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#4945FF" transform="translate(496.2 396.5) scale(1.0833)"/>
+    <text x="509.2" y="451.5" text-anchor="middle" class="label">Strapi</text>
+  </g>
+  <g class="node" style="animation-duration:4.20s;animation-delay:-5.40s">
+    <circle class="halo" cx="675.4" cy="416.5" r="35" fill="#47A248" style="animation-duration:4.20s;animation-delay:-5.40s"/>
+    <circle cx="675.4" cy="416.5" r="25" fill="#0b1020" stroke="#47A248" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#47A248" transform="translate(662.4 403.5) scale(1.0833)"/>
+    <text x="675.4" y="458.5" text-anchor="middle" class="label">MongoDB</text>
+  </g>
+  <g class="node" style="animation-duration:4.90s;animation-delay:-4.70s">
+    <circle class="halo" cx="586.0" cy="458.6" r="35" fill="#e6edf3" style="animation-duration:4.90s;animation-delay:-4.70s"/>
+    <circle cx="586.0" cy="458.6" r="25" fill="#0b1020" stroke="#e6edf3" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#e6edf3" transform="translate(573.0 445.6) scale(1.0833)"/>
+    <text x="586.0" y="500.6" text-anchor="middle" class="label">Vercel</text>
+  </g>
+  <g class="node" style="animation-duration:5.60s;animation-delay:-4.00s">
+    <circle class="halo" cx="734.6" cy="458.2" r="35" fill="#00C7B7" style="animation-duration:5.60s;animation-delay:-4.00s"/>
+    <circle cx="734.6" cy="458.2" r="25" fill="#0b1020" stroke="#00C7B7" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#00C7B7" transform="translate(721.6 445.2) scale(1.0833)"/>
+    <text x="734.6" y="500.2" text-anchor="middle" class="label">Netlify</text>
+  </g>
+  <g class="node" style="animation-duration:6.30s;animation-delay:-3.30s">
+    <circle class="halo" cx="466.5" cy="482.4" r="35" fill="#DD2C00" style="animation-duration:6.30s;animation-delay:-3.30s"/>
+    <circle cx="466.5" cy="482.4" r="25" fill="#0b1020" stroke="#DD2C00" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#DD2C00" transform="translate(453.5 469.4) scale(1.0833)"/>
+    <text x="466.5" y="524.4" text-anchor="middle" class="label">Firebase</text>
+  </g>
+  <g class="node" style="animation-duration:4.00s;animation-delay:-2.60s">
+    <circle class="halo" cx="586.0" cy="531.6" r="35" fill="#009639" style="animation-duration:4.00s;animation-delay:-2.60s"/>
+    <circle cx="586.0" cy="531.6" r="25" fill="#0b1020" stroke="#009639" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#009639" transform="translate(573.0 518.6) scale(1.0833)"/>
+    <text x="586.0" y="573.6" text-anchor="middle" class="label">NGINX</text>
+  </g>
+  <g class="node" style="animation-duration:4.70s;animation-delay:-1.90s">
+    <circle class="halo" cx="480.2" cy="555.5" r="35" fill="#4285F4" style="animation-duration:4.70s;animation-delay:-1.90s"/>
+    <circle cx="480.2" cy="555.5" r="25" fill="#0b1020" stroke="#4285F4" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#4285F4" transform="translate(467.2 542.5) scale(1.0833)"/>
+    <text x="480.2" y="597.5" text-anchor="middle" class="label">Google Cloud</text>
+  </g>
+  <g class="node" style="animation-duration:5.40s;animation-delay:-1.20s">
+    <circle class="halo" cx="684.0" cy="551.9" r="35" fill="#FF9900" style="animation-duration:5.40s;animation-delay:-1.20s"/>
+    
+    <text x="684.0" y="556.9" text-anchor="middle" class="pill" fill="#FF9900">AWS</text>
+    <text x="684.0" y="593.9" text-anchor="middle" class="label">AWS</text>
+  </g>
+  <g class="node" style="animation-duration:6.10s;animation-delay:-0.50s">
+    <circle class="halo" cx="405.3" cy="485.5" r="35" fill="#9B4F96" style="animation-duration:6.10s;animation-delay:-0.50s"/>
+    
+    <text x="405.3" y="490.5" text-anchor="middle" class="pill" fill="#9B4F96">C#</text>
+    <text x="405.3" y="527.5" text-anchor="middle" class="label">C#</text>
+  </g>
+  <g class="node" style="animation-duration:3.80s;animation-delay:-5.80s">
+    <circle class="halo" cx="404.0" cy="558.0" r="35" fill="#512BD4" style="animation-duration:3.80s;animation-delay:-5.80s"/>
+    <circle cx="404.0" cy="558.0" r="25" fill="#0b1020" stroke="#512BD4" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#512BD4" transform="translate(391.0 545.0) scale(1.0833)"/>
+    <text x="404.0" y="600.0" text-anchor="middle" class="label">.NET</text>
+  </g>
+  <g class="node" style="animation-duration:4.50s;animation-delay:-5.10s">
+    <circle class="halo" cx="936.0" cy="437.3" r="35" fill="#FCC624" style="animation-duration:4.50s;animation-delay:-5.10s"/>
+    <circle cx="936.0" cy="437.3" r="25" fill="#0b1020" stroke="#FCC624" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#FCC624" transform="translate(923.0 424.3) scale(1.0833)"/>
+    <text x="936.0" y="479.3" text-anchor="middle" class="label">Linux</text>
+  </g>
+  <g class="node" style="animation-duration:5.20s;animation-delay:-4.40s">
+    <circle class="halo" cx="166.0" cy="541.5" r="35" fill="#A22846" style="animation-duration:5.20s;animation-delay:-4.40s"/>
+    <circle cx="166.0" cy="541.5" r="25" fill="#0b1020" stroke="#A22846" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#A22846" transform="translate(153.0 528.5) scale(1.0833)"/>
+    <text x="166.0" y="583.5" text-anchor="middle" class="label">Raspberry Pi</text>
+  </g>
+  <g class="node" style="animation-duration:5.90s;animation-delay:-3.70s">
+    <circle class="halo" cx="166.0" cy="458.2" r="35" fill="#76B900" style="animation-duration:5.90s;animation-delay:-3.70s"/>
+    <circle cx="166.0" cy="458.2" r="25" fill="#0b1020" stroke="#76B900" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="undefined" fill="#76B900" transform="translate(153.0 445.2) scale(1.0833)"/>
+    <text x="166.0" y="500.2" text-anchor="middle" class="label">Jetson</text>
+  </g>
+
+  <g class="particles">
+  <circle r="4" fill="#e94560" class="spark"><animateMotion dur="4s" repeatCount="indefinite" begin="0.00s" path="M96,104 H1104 V604 H96 Z"/></circle>
+  <circle r="4" fill="#e94560" class="spark"><animateMotion dur="4s" repeatCount="indefinite" begin="-2.00s" path="M96,104 H1104 V604 H96 Z"/></circle>
+  <circle r="3" fill="#ff8a9b" class="spark"><animateMotion dur="6s" repeatCount="indefinite" begin="0.00s" path="M96,604 H1104 V104 H96 Z"/></circle>
+  <circle r="3" fill="#ff8a9b" class="spark"><animateMotion dur="6s" repeatCount="indefinite" begin="-3.00s" path="M96,604 H1104 V104 H96 Z"/></circle>
+  <circle r="4" fill="#4fd1c5" class="spark"><animateMotion dur="9s" repeatCount="indefinite" begin="0.00s" path="M96,400 C300,300 480,500 700,400 S1000,300 1104,400"/></circle>
+  <circle r="4" fill="#4fd1c5" class="spark"><animateMotion dur="9s" repeatCount="indefinite" begin="-4.50s" path="M96,400 C300,300 480,500 700,400 S1000,300 1104,400"/></circle>
+  <circle r="3" fill="#f6c343" class="spark"><animateMotion dur="11s" repeatCount="indefinite" begin="0.00s" path="M1104,250 C900,160 700,340 480,250 S180,160 96,250"/></circle>
+  <circle r="3" fill="#f6c343" class="spark"><animateMotion dur="11s" repeatCount="indefinite" begin="-5.50s" path="M1104,250 C900,160 700,340 480,250 S180,160 96,250"/></circle>
+  </g>
+</svg>

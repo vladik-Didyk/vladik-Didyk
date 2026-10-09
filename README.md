@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/skill-chart.svg?v=5" width="100%" alt="Skill map — time vs experience" />
+<img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/assets/tech-stack.svg?v=1" width="100%" alt="Tech stack — time vs experience, animated" />
 
 </div>
 
@@ -45,8 +45,6 @@
 <img height="180" src="https://streak-stats.demolab.com/?user=vladik-Didyk&theme=radical&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak stats" />
 
 <img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/output/github-snake-dark.svg" width="100%" alt="Snake eating my contribution graph" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vladik-Didyk&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&area_color=e94560&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
 
 <img src="https://raw.githubusercontent.com/vladik-Didyk/vladik-Didyk/main/github-metrics.svg" width="100%" alt="GitHub metrics — stats, languages, activity calendar" />
 
